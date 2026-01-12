@@ -1,4 +1,4 @@
-# Disha_AI
+# Disha - AI Powered Financial Inclusion that Empowering Innovation and Business Growth.
 <p align="center">
   <img src="assets/disha-logo.png" alt="Disha Logo" width="180"/>
 </p>
@@ -14,20 +14,20 @@ By combining **social networking**, **business guidance**, and **financial tools
 
 Starting and scaling a business is challenging. Entrepreneurs often struggle to find the right **community**, **mentorship**, and **resources** to bring their ideas to life.
 
-Disha_AI bridges this gap by providing a **social-media-like experience tailored for businesses**, where users can:
+Disha bridges this gap by providing a **social-media-like experience tailored for businesses**, where users can:
 
 - Exchange ideas and celebrate milestones
 - Network with like-minded entrepreneurs and innovators
 - Work together on meaningful projects
 - Utilize business tools, analytics, and expert insights 
 
-Whether you are a **budding entrepreneur** or an **established business owner**, Disha_AI fuels your journey from **concept to success**.
+Whether you are a **budding entrepreneur** or an **established business owner**, Disha fuels your journey from **concept to success**.
 
 ## Key Features
 
 ### 🔐 Secure Authentication & Guided Onboarding
 
-Disha_AI begins with a simple and secure authentication process, followed by a **three-step onboarding flow** designed to understand each user’s profile holistically and deliver personalized insights.
+Disha begins with a simple and secure authentication process, followed by a **three-step onboarding flow** designed to understand each user’s profile holistically and deliver personalized insights.
 
 1. **Personal Details** – Basic profile information such as name, language, education, and experience.  
 2. **Financial Details** – Income, assets, and existing loan information for personalized insights.  
@@ -91,7 +91,7 @@ The platform is powered by a robust and scalable backend:
   - Business recommendations (PDF analysis and web scraping)  
 ---
 
-## Shakti App Workflow Overview
+## Disha App Workflow Overview
 
 **1. Sign up using email or Google authentication** 
 **2. Complete the three-step profile setup**  
